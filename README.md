@@ -28,7 +28,7 @@ Screenshot
 
 Frontend: React, Chakra UI, Redux
 Backend: Node.js, Express, MongoDB, Typescript
-Deployment: Vercel, Render
+Deployment: Netlify, Cyclic
 🏃‍♂️ Getting Started 🏃‍♀️
 
 Clone the repository.
