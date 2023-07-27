@@ -4,9 +4,9 @@ BrainerHub 🧠
 
 Check out the live demo of the application here:
 
-Frontend: https://brainerhub-vert.vercel.app/
+Frontend: https://venerable-maamoul-0979c2.netlify.app/
 
-Backend: https://brainerhub-backend.onrender.com/
+Backend: https://dark-puce-chipmunk-hat.cyclic.app/
 
 Screenshot
 
@@ -26,8 +26,8 @@ Screenshot
 
 🛠️ Tech Stack 🛠️
 
-Frontend: React, Typescript, Chakra UI, Redux
-Backend: Node.js, Express, MongoDB
+Frontend: React, Chakra UI, Redux
+Backend: Node.js, Express, MongoDB, Typescript
 Deployment: Vercel, Render
 🏃‍♂️ Getting Started 🏃‍♀️
 
@@ -37,13 +37,13 @@ Create a .env file in the backend directory and provide the necessary environmen
 Run the frontend and backend servers using npm run start in their respective directories.
 Open your browser and visit http://localhost:8080 to start training your brain!
 API Endpoints 🚀
-[POST] /api/auth/register 📝✨
+[POST] /user/register 📝✨
 
-User Registration [POST] /api/auth/login 🔑✨
+User Registration [POST] /user/login 🔑✨
 
-User Login [GET] /api/products 🛍️✨
+User Login [GET] / 🛍️✨
 
-Get Product by ID [POST] /api/products ➕✨
+Get Product by ID [POST] /shop/ ➕✨
 
 💡 Feedback 💡
 
@@ -51,6 +51,6 @@ We welcome any feedback, suggestions, or contributions! Feel free to create an i
 
 📧 Contact 📧
 
-For any inquiries or support, please contact us at neeraj@gmail.com.
+For any inquiries or support, please contact us at vivekanjankc12345@gmail.com.
 
-Happy Training! 🧠
+Happy Training!
